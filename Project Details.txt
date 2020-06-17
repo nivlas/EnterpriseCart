@@ -1,0 +1,32 @@
+$250.00 – 750.00 USD
+ BIDDING ENDS IN 6 DAYS, 8 HOURS
+OPEN Source .Net 5 Core C# Blazor Shopping Cart & E Commerce System
+
+We have an existing open-source shopping cart application here:
+https://github.com/stfbinc/EnterpriseCart/
+
+This application is written in PHP MVC Style and Bootstrap. We want this existing application ported to use .Net Core 5 with Blazor Pages.
+
+You would need to do the following:
+- Create a .Net 5 Core Blazor Application Solution
+- Replace every page in this Shopping Cart Application with a C# Blazor Page
+- Port each individual page from PHP to C# Blazor
+- All database / business logic calls should be made via the API
+
+Pretty simple requirement, simply copy the existing working application and make it a Blazor Solution
+
+The shopping cat uses the Enterprise Universal ERP API Here:
+https://stfb.com/?page_id=1240
+
+Enterprise Universal ERP API Documentation is here:
+http://stfb.net/EnterpriseUniversalAPI/Documentation/auto/index.html
+
+The point of this application is for us to give this away for free to our potential ERP API customers so they can learn how to use the API in a real-world application. This means that the code needs to simple, clean, and well documented.
+
+This is an OPEN SOURCE Project, the results of the project will be licensed open source, and you agree to this when delivering any work.
+Skills Required
+PHP
+Accounting
+C# Programming
+ERP
+.NET Core
